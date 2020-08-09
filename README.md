@@ -1,2 +1,2 @@
 # R-scripts
-This repository is a collection of all the simple models on R
+Hi, my name is Gorras. I am an aprenttice on GitHub. This is my fisrt exercise on commits.
